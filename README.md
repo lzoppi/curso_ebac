@@ -6,6 +6,10 @@
 
 Este repositório visa realizar testes de aprendizado refernetes ao curso de Analista de Dados da EBAC.
 
+Projetos:
+
+**Evolução preço gasolina** : https://github.com/lzoppi/Evolucao-preco-gasolina.git
+
 
 
 
