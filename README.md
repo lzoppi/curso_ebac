@@ -10,8 +10,9 @@ Projetos:
 
 **Evolução preço gasolina** : https://github.com/lzoppi/Evolucao-preco-gasolina.git
 
-**Extração TOP 10 projetos GitHub**: https://github.com/lzoppi/projeto-1---Analise-explorat-ria-de-dados-Loggi.git
+**Extração TOP 10 projetos GitHub**: https://github.com/lzoppi/TOP-10-GitHub.git
 
+**Analise exploratória Loggi::** 
 
 
 
