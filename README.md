@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Este repositório visa realizar testes de aprendizado refernetes ao curso de Analista de Dados da EBAC.
+Este repositório visa realizar testes de aprendizado referente ao curso de Analista de Dados da EBAC.
 
 Projetos:
 
