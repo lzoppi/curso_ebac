@@ -12,7 +12,7 @@ Projetos:
 
 **Extração TOP 10 projetos GitHub**: https://github.com/lzoppi/TOP-10-GitHub.git
 
-**Analise exploratória Loggi::** 
+**Analise exploratória Loggi::** https://github.com/lzoppi/projeto1-Analise-Exploratoria-das-entregas-Loggi-no-DF.git
 
 
 
